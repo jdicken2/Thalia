@@ -1,0 +1,108 @@
+{
+	"wid": "<wid1>",
+	"show_info": {
+		"name": "King Lear",
+		"web": "http://www.example.com/shows/king-lear",
+		"date": "2017-12-05",
+		"time": "13:00"
+	},
+	"sid": "<sid1>",
+	"section_name": "Front right",
+	"seating": [{
+			"row": "1",
+			"seats": [{
+					"cid": "201",
+					"seat": "1",
+					"status": "available"
+				},
+				{
+					"cid": "202",
+					"seat": "2",
+					"status": "available"
+				},
+				{
+					"cid": "203",
+					"seat": "3",
+					"status": "available"
+				},
+				{
+					"cid": "204",
+					"seat": "4",
+					"status": "available"
+				}
+			]
+		},
+		{
+			"row": "2",
+			"seats": [{
+					"cid": "213",
+					"seat": "1",
+					"status": "available"
+				},
+				{
+					"cid": "214",
+					"seat": "2",
+					"status": "available"
+				},
+				{
+					"cid": "215",
+					"seat": "3",
+					"status": "available"
+				},
+				{
+					"cid": "216",
+					"seat": "4",
+					"status": "available"
+				}
+			]
+		},
+		{
+			"row": "3",
+			"seats": [{
+					"cid": "225",
+					"seat": "1",
+					"status": "available"
+				},
+				{
+					"cid": "226",
+					"seat": "2",
+					"status": "available"
+				},
+				{
+					"cid": "227",
+					"seat": "3",
+					"status": "available"
+				},
+				{
+					"cid": "228",
+					"seat": "4",
+					"status": "available"
+				}
+			]
+		},
+		{
+			"row": "4",
+			"seats": [{
+					"cid": "238",
+					"seat": "1",
+					"status": "available"
+				},
+				{
+					"cid": "239",
+					"seat": "2",
+					"status": "available"
+				},
+				{
+					"cid": "239",
+					"seat": "3",
+					"status": "available"
+				},
+				{
+					"cid": "240",
+					"seat": "4",
+					"status": "available"
+				}
+			]
+		}
+	]
+}

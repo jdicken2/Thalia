@@ -1,0 +1,14 @@
+{
+	"wid": "<wid1>",
+	"show_info": {
+		"name": "King Lear",
+		"web": "http://www.example.com/shows/king-lear",
+		"date": "2017-12-05",
+		"time": "13:00"
+	},
+	"sid": "<sid1>",
+	"section_name": "Front right",
+	"starting_seat_id": "<cid1>",
+	"status": "Error: 5 contiguous seats not available",
+	"seating": []
+}
