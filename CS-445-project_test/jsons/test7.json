@@ -1,0 +1,21 @@
+{
+	"show_info": {
+		"name": "King Lear",
+		"web": "http://www.example.com/shows/king-lear",
+		"date": "2017-12-05",
+		"time": "13:00"
+	},
+	"seating_info": [{
+			"sid": "123",
+			"price": 60
+		},
+		{
+			"sid": "124",
+			"price": 75
+		},
+		{
+			"sid": "125",
+			"price": 60
+		}
+	]
+}

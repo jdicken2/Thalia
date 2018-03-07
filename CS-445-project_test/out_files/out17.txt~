@@ -1,0 +1,30 @@
+{
+	"oid": "<oid1>",
+	“did”: "<wid1>",
+	"show_info": {
+		"name": "King Lear",
+		"web": "http://www.example.com/shows/king-lear",
+		"date": "2017-12-05",
+		"time": "13:00"
+	},
+	"date_ordered": "2017-10-28 18:24",
+	"order_amount": 180,
+	"patron_info": {
+		"name": "John Doe",
+		"phone": "123-456-7890",
+		"email": "john.doe@example.com",
+		"billing_address": "123 Main ST, Anytown, IL 45678",
+		"cc_number": "xxxxxxxxxxxx7654",
+		"cc_expiration_date": "12/21"
+	},
+	"tickets": [{
+		"tid": "<tid1>",
+		"status": "open"
+	}, {
+		"tid": "<tid2>",
+		"status": "open"
+	}, {
+		"tid": "<tid3>",
+		"status": "open"
+	}]
+}
