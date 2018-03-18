@@ -1,0 +1,25 @@
+{
+	"wid": "<wid1>",
+	"sid": "<sid1>",
+	"seats": [{
+			"cid": "<cid1>",
+			"seat": "1"
+		},
+		{
+			"cid": "<cid2>",
+			"seat": "2"
+		},
+		{
+			"cid": "<cid3>",
+			"seat": "3"
+		}
+	],
+	"patron_info": {
+		"name": "John Doe",
+		"phone": "123-456-7890",
+		"email": "john.doe@example.com",
+		"billing_address": "123 Main ST, Anytown, IL 45678",
+		"cc_number": "1234567890987654",
+		"cc_expiration_date": "12/21"
+	}
+}

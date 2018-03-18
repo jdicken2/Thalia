@@ -1,0 +1,12 @@
+[{
+    		"mrid": 801,
+    		"name": "Theatre occupancy"
+    	}, {
+    		"mrid": 802,
+    		"name": "Revenue from ticket sales"
+    	},
+    	{
+    		"mrid": 803,
+    		"name": "Donated tickets report"
+    	}
+]

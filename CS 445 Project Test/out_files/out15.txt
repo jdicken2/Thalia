@@ -1,0 +1,13 @@
+{
+	"oid": "411",
+	"wid": "<wid1>",
+	"show_info": {
+		"name": "King Lear",
+		"web": "http://www.example.com/shows/king-lear",
+		"date": "2017-12-05",
+		"time": "13:00"
+	},
+	"date_ordered": "2017-10-28 18:24",
+	"order_amount": 180,
+	"tickets": ["729", "730", "731"]
+}

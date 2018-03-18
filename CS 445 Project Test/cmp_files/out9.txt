@@ -1,0 +1,13 @@
+[{
+		"sid": "<sid1>",
+		"section_name": "Front right"
+	},
+	{
+		"sid": "<sid2>",
+		"section_name": "Front center"
+	},
+	{
+		"sid": "<sid3>",
+		"section_name": "Front left"
+	}
+]
