@@ -1,8 +1,9 @@
-Julian Dickens
 CS 445 Project (thalia)
 Version 1.0
-03/18/2018
 ---------------------------------------------------------------------------------
+Author: Julian Dickens
+Original Publishing Date: 03/18/2018
+----------------------------------------------------------------------------------
 Summary
 ---------------------------------------------------------------------------------
 This project gives students an opportunity to learn RESTful Web Servies through Object Oriented Programming. The project serves as a mock theater for a client named, Thalia. The core functionalities of the project is as follows:
@@ -75,7 +76,10 @@ Credits:
 	3. Slight Changes to accoomodate this project: Julian Dickens 
 2. Acknoledgements:
 
-Thank-you to Virgil Bistriceanu for creating the original concept of the project, and thank-you to Koushik Kothagal of Java Brains for providing a tutorial on RESTful Web Services in Java, using Jersey.
+Thank-you to:
+
+	1. Virgil Bistriceanu for creating the original concept of the project 
+	2. Koushik Kothagal of Java Brains for providing a tutorial on RESTful Web Services in Java, using Jersey/JAX-RS.
 
 
 
