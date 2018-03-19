@@ -29,25 +29,25 @@ There are other functionalities that should have been implemented in the project
 Configuration Instructions (Linux, Ubuntu 16.04)
 ----------------------------------------------------------------------------------
 1. Install and Verify Java
-$ sudo apt-get install default-jre
-$ java -version
+ 1. $ sudo apt-get install default-jre
+ 2. $ java -version
 
 2. Install Eclipse
-a. Download Eclipse from this link:
-https://www.eclipse.org/downloads/download.php?file=/oomph/epp/mars/R2/eclipse-inst-linux64.tar.gz
-b. Unzip Eclipse
-$ unzip eclipse-inst-linux64.tar.gz
-c. Go to ~/Downloads/eclipse-installer and run the installer
-d. Choose "Eclipse IDE for Java Developers"
+	1. Download Eclipse from this link:
+	https://www.eclipse.org/downloads/download.php?file=/oomph/epp/mars/R2/eclipse-inst-linux64.tar.gz
+	2. Unzip Eclipse
+	$ unzip eclipse-inst-linux64.tar.gz
+	3. Go to ~/Downloads/eclipse-installer and run the installer
+	4. Choose "Eclipse IDE for Java Developers"
 
 
 3. Import the project in the Eclipse Workspace
-a. File->Import->Existing Projects
-b. Select thalia from the Downloads
+	1. File->Import->Existing Projects
+	2. Select thalia from the Downloads
 
 4. Create a Server
-a. Right Click in the Server window and create a "Apache Tomcat v7.0 Server"
-b. Add thalia to the server by right clicking it and select "Add or Remove"
+	1. Right Click in the Server window and create a "Apache Tomcat v7.0 Server"
+	2. Add thalia to the server by right clicking it and select "Add or Remove"
 
 Deploy Instructions 
 ----------------------------------------------------------------------------------
