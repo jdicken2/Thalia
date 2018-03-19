@@ -8,7 +8,7 @@ Author and Date
 
 Summary
 ---------------------------------------------------------------------------------
-This project gives students an opportunity to learn RESTful Web Servies through Object Oriented Programming. The project serves as a mock theater for a client named, Thalia. The core functionalities of the project is as follows:
+This project gives students an opportunity to learn RESTful Web Servies through Object Oriented Programming. The project serves as a mock theater for a client named, Thalia. The core functionalities of the project are as follows:
 1. View the seating within the theater and view changes made to seats when an order is placed, through GET requests
 2. View and create shows through GET and POST requests
 3. View the sections of certain shows through GET requests
