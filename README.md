@@ -60,7 +60,8 @@ Functional Tests:
 Unit Tests:
 1. Go to Eclipse, Run the Project as a Java Application
 2. To display coverage, go to Eclipse, and choose "Coverage As"
-or:
+
+Or:
 1. Cd into the "thalia/"src/main"/java/test folder
 2. Type make test
 
