@@ -67,6 +67,7 @@ Known Bugs
 2. The orders are not accurate beyond oid 413.
 3. There are no Theatre Occupancy or Donated tickets reports
 4. Make test does not run the TestRunner, despite it being in the same folder as the TestRunner class.
+5. Requesting seating information only works for rows that only have 4 seats or less. If it has more, the program will assume it only has 4 seats in that row. Therefore, a patron cannot request for 5 or more contiguous seats, in a row that has 5 or seats. 
 
 Credits and Acknowledgements
 ----------------------------------------------------------------------------------
