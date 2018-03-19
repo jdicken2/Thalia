@@ -5,7 +5,7 @@ Author and Date
 ---------------------------------------------------------------------------------
 Author: Julian Dickens
 Date: 03/18/2018
-----------------------------------------------------------------------------------
+
 Summary
 ---------------------------------------------------------------------------------
 This project gives students an opportunity to learn RESTful Web Servies through Object Oriented Programming. The project serves as a mock theater for a client named, Thalia. The core functionalities of the project is as follows:
