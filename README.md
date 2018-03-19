@@ -1,8 +1,10 @@
 CS 445 Project (thalia)
 Version 1.0
+
+Author and Original Publishing Date
 ---------------------------------------------------------------------------------
-Author: Julian Dickens
-Original Publishing Date: 03/18/2018
+	Author: Julian Dickens
+	Date: 03/18/2018
 ----------------------------------------------------------------------------------
 Summary
 ---------------------------------------------------------------------------------
@@ -75,11 +77,9 @@ Credits:
 	2. Bug Fixes: Danna Liu 
 	3. Slight Changes to accoomodate this project: Julian Dickens 
 2. Acknoledgements:
-
-Thank-you to:
-
-	1. Virgil Bistriceanu for creating the original concept of the project 
-	2. Koushik Kothagal of Java Brains for providing a tutorial on RESTful Web Services in Java, using Jersey/JAX-RS.
+	Thank-you to:
+		1. Virgil Bistriceanu for creating the original concept of the project 
+		2. Koushik Kothagal of Java Brains for providing a tutorial on RESTful Web Services in Java, using Jersey/JAX-RS.
 
 
 
