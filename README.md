@@ -20,7 +20,7 @@ This project gives students an opportunity to learn RESTful Web Servies through 
 9. Donate tickets through POST requests
 10. Check the status of subscriptions through GET requests
 11. Get list of available reports and view ticket sales report, through GET requests.
-12. Search for orders
+12. Search for orders through a GET request
 
 There are other functionalities that should have been implemented in the project, Some of them include:
 1. More options for searching
