@@ -22,7 +22,7 @@ This project gives students an opportunity to learn RESTful Web Servies through 
 11. Get list of available reports and view ticket sales report, through GET requests.
 12. Search for orders
 
-There are other functionalities that should have been implemented in the project, but due to the interest of time, they were not. Some of them include:
+There are other functionalities that should have been implemented in the project, Some of them include:
 1. More options for searching
 2. More reports, such as an occupancy report 
 
