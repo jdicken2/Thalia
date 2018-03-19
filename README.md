@@ -76,9 +76,8 @@ Credits:
 	2. Bug Fixes: Danna Liu 
 	3. Slight Changes to accoomodate this project: Julian Dickens 
 2. Acknoledgements:
-	Thank-you to:
-		1. Virgil Bistriceanu for creating the original concept of the project 
-		2. Koushik Kothagal of Java Brains for providing a tutorial on RESTful Web Services in Java, using Jersey/JAX-RS.
+	1. Virgil Bistriceanu for creating the original concept of the project 
+	2. Koushik Kothagal of Java Brains for providing a tutorial on RESTful Web Services in Java, using Jersey/JAX-RS
 
 
 
