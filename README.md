@@ -69,10 +69,12 @@ Credits and Acknowledgements
 ----------------------------------------------------------------------------------
 Credits:
 1. Functional Testing Script
-	Author: Ying Chen
-	Bug Fixes: Danna Liu 
-	Slight Changes to accoomodate this project: Julian Dickens 
+
+	1. Author: Ying Chen
+	2. Bug Fixes: Danna Liu 
+	3. Slight Changes to accoomodate this project: Julian Dickens 
 2. Acknoledgements:
+
 Thank-you to Virgil Bistriceanu for creating the original concept of the project, and thank-you to Koushik Kothagal of Java Brains for providing a tutorial on RESTful Web Services in Java, using Jersey.
 
 
