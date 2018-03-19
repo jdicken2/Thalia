@@ -1,10 +1,10 @@
 CS 445 Project (thalia)
 Version 1.0
-
-Author and Original Publishing Date
 ---------------------------------------------------------------------------------
-	Author: Julian Dickens
-	Date: 03/18/2018
+Author and Date
+---------------------------------------------------------------------------------
+Author: Julian Dickens
+Date: 03/18/2018
 ----------------------------------------------------------------------------------
 Summary
 ---------------------------------------------------------------------------------
@@ -72,7 +72,6 @@ Credits and Acknowledgements
 ----------------------------------------------------------------------------------
 Credits:
 1. Functional Testing Script
-
 	1. Author: Ying Chen
 	2. Bug Fixes: Danna Liu 
 	3. Slight Changes to accoomodate this project: Julian Dickens 
