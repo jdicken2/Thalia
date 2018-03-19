@@ -29,8 +29,8 @@ There are other functionalities that should have been implemented in the project
 Configuration Instructions (Linux, Ubuntu 16.04)
 ----------------------------------------------------------------------------------
 1. Install and Verify Java
- 1. $ sudo apt-get install default-jre
- 2. $ java -version
+ 	1. $ sudo apt-get install default-jre
+ 	2. $ java -version
 
 2. Install Eclipse
 	1. Download Eclipse from this link:
