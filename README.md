@@ -54,8 +54,9 @@ Deploy Instructions
 Functional Tests:
 1. Start the Tomcat Server
 2. cd into the directory "CS 445 Project Test"
-3. Type python run-test.py in the command line.
-4. The project should pass all tests except for test 21, resulting in a score of 32/33.
+3. Install python, numpy, json, and requests 
+4. Type python run-test.py in the command line.
+5. The project should pass all tests except for test 21, resulting in a score of 32/33.
 
 Unit Tests:
 1. Go to Eclipse, Run the Project as a Java Application
